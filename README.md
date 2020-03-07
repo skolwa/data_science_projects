@@ -1,6 +1,6 @@
 # Data Science Projects 
 
-# Context :
+## Background :
 
 As I explore the broad and fascinating world of data science, I will collate some of projects into IPython notebooks hosted on my <a href = "https://www.kaggle.com/sthabile">Kaggle profile</a>. The same projects and some additional ones will appear in this repository. 
 
@@ -8,7 +8,11 @@ I am interested in building predictive models using neural networks, exploratory
 
 Watch this space!
 
+## Usage 
 
-<p align="center">
-<img src="neural_networks.gif" height="400x" class="center">
+Find inspiration from my notebooks to build your own machine learning or data anlysis models. 
+
+
+<p>
+<img src="neural_networks.gif" height="450x" class="center">
 </p>
