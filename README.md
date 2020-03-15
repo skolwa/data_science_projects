@@ -10,7 +10,7 @@ Watch this space!
 
 ## Usage 
 
-Find inspiration from my notebooks to build your own machine learning or data analysis models. 
+Find inspiration from my notebooks for your own projects.
 
 
 <p>
